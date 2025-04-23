@@ -1,0 +1,12 @@
+{
+  "name": "EasyLecture",
+  "author": "Anton Zaviyalov",
+  "version": "0.0.1",
+  "description": "EasyLecture Web App",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
